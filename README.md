@@ -6,7 +6,7 @@ Web Director / Web Developer, Burnworks Inc. Tokyo Japan.
 
 - Profile: [https://yoshiki.kato.name/](https://yoshiki.kato.name/)
 - Blog: [https://hyper-text.org/](https://hyper-text.org/)
-- [Burnworks Inc.](https://burnworks.com/)
+- [Burnworks Inc.](https://burnworks.com/) :office:
 
 ## SNS
 
