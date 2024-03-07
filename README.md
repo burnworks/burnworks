@@ -11,4 +11,5 @@ Web Director / Web Developer, Burnworks Inc. Tokyo Japan.
 ## SNS
 
 - Twitter: [@burnworks](https://twitter.com/burnworks)
+- Bluesky: [@burnworks.bsky.social](https://bsky.app/profile/burnworks.bsky.social)
 - Instagram: [@burnworks](https://www.instagram.com/burnworks/)
