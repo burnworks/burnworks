@@ -12,7 +12,7 @@ Webフロントエンド技術、及びIA（情報設計）、アクセシビリ
 
 ## Website
 
-- Profile: [https://yoshiki.kato.name/](https://yoshiki.kato.name/)
+- Profile: [https://yoshiki-kato.jp/](https://yoshiki-kato.jp/)
 - Blog: [https://hyper-text.org/](https://hyper-text.org/)
 - [Burnworks Inc.](https://burnworks.com/) :office:
 
